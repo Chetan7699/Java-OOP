@@ -14,7 +14,7 @@ class Dog extends Animal
 {
 	void bark()
 	{
-		System.out.println("Dog Barks");
+		System.out.println("Dog Barks always");
 	}
 
 
